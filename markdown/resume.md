@@ -4,7 +4,9 @@
 
 Plantation FL, 33322
 
-JohnMichaelBell@gmail.com - (407) 927-6251
+Email: JohnMichaelBell@gmail.com
+
+Phone: (407)927-6251
 
 ## Skills Summary
 
@@ -25,7 +27,7 @@ January 2017 - Present
 A developer kit consisting of APIs and tools for creating applications for Magic Leap's proprietary Lumin Runtime.
 
 - Technology used: C++11, OpenGL, CMake
-- My Role: Porting freatures from Lumin Runtime to Windows and Mac so that they could be used in other developer tools; Adding parts of Lumin runtime to the SDK
+- My Role: Porting features from Lumin Runtime to Windows and Mac so that they could be used in other developer tools; Adding parts of Lumin runtime to the SDK
 
 #### Zero Iteration
   
@@ -72,7 +74,7 @@ suite for eSchool’s main product, SmartFindExpress.
 
 ### University of Central Florida - Orlando, FL
 
-M.S. in Interactive Entertainment (FIEA graduate school) - December 2016
+M.S. in Interactive Entertainment (FIEA Graduate School) - December 2016
 
 B.S. in Computer Science - August 2015
 

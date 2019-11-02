@@ -36,11 +36,11 @@ $endif$
 
 \setupblackrules[width=31mm, color=rulecolor]
 
-\setupinterlinespace[small]
-\setuphead[chapter]      [style=\tfd, before={\blank[none]}, after={\blank[none]}]
-\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle, before={\blank[none]}, after={\blank[none]}]
-\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right, before={\blank[none]}, after={\blank[none]}]
-\setuphead[subsubsection][style=\bf, before={\blank[none]}, after={\blank[none]}]
+\setuphead[chapter]      [style=\tfd]
+\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+                          before={\blank[none]\leavevmode\blackrule\hspace}, after={\blank[none]}]
+\setuphead[subsubsection][style=\bf, before={\blank[none]}]
 
 $if(number-sections)$
 $else$
@@ -52,7 +52,7 @@ $endif$
 \definedescription
   [description]
   [headstyle=bold, style=normal,
-   location=hanging, width=18mm, distance=8mm, margin=0cm]
+   location=hanging, width=18mm, distance=14mm, margin=0cm]
 
 \setupitemize[autointro, packed]    % prevent orphan list intro
 \setupitemize[indentnext=no]
@@ -102,7 +102,7 @@ $if(toc)$
 \placecontent
 $endif$
 
-\setupinterlinespace[.5]
+\setupinterlinespace[.65]
 $body$
 
 $for(include-after)$
