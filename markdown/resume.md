@@ -1,100 +1,89 @@
-Johnny Coder
-============
+# John Michael Bell
 
-----
+1650 NW 110th Ave, Apt 192
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+Plantation FL, 33322
 
-----
+(407) 927-6251
 
-Education
----------
+JohnMichaelBell@gmail.com
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+## Skills Summary
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+---
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Programming Languages: C++14 • C • Rust • C# • Python • Actionscript • Java • Motorola 68k Assembly
 
-    *Minor: Awesomeology*
+API Experience: OpenGL • Vulkan • Direct3D 11 • RakNet
 
-Experience
-----------
+Engines and Frameworks: Unity Engine • Unreal Engine 4 • Adobe Flash
 
-**Your Most Recent Work Experience:**
+## Experience
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+---
 
-* First item
+### Magic Leap
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+January 2017 - Present
 
-**That Other Job You Had**
+- Lumin Runtime Sdk:
 
-Also with a short description.
+  A developer kit consisting of APIs and tools for creating applications for Magic Leap's proprietary Lumin Runtime.
 
-Technical Experience
---------------------
+  - Technology used: C++11, OpenGL, CMake
+  - My Role: Porting freatures from Lumin Runtime to Windows and Mac so that they could be used in other developer tools; Adding parts of Lumin runtime to the SDK
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+- Zero Iteration:
+  
+  A tool that allows developers to rapidly iterate on projects for Magic Leap by simulating Magic Leap's C APIs on the developer's desktop.
+  
+  - Technology Used: C11 / C++11, python, protobuf, and zmq
+  - My Role: implementing APIs such as audio and dense mesh reconstruction
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+- Lumin SDK C API:
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+  The set of interfaces that all game engines and frameworks on Magic Leap One use to communicate with the devices hardware and services.
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+  - Technology Used: C11 / C++11, python
+  - My Role: Creating examples demonstrating API features, and setting up a common framework and build system for these examples to share
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+### Immersed Games Internship: Tyto Online
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+September 2016 - December 2016 Developing an educational MMO game that teaches science to
+elementary and middle school students.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+- Technology Used: Unreal Engine 4 using C++14 and RakNet
+- My Role: Gameplay and network programming
 
-[ref]: https://github.com/githubuser/superlongprojectname
+### Ley Lines
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+March - August 2016
 
-* Human Languages:
+An action puzzler game developed for a capstone Project at FIEA and released on Steam.
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+- Technology Used: Unreal Engine 4 using C++14 and UE Blueprints
+- My Role: General gameplay and UI programming
 
-* Random tidbit
+### eSchool Solutions Testing Internship
 
-* Other sort of impressive-sounding thing you did
+May - August 2014
 
-----
+A summer internship assisting the eSchool Solutions QA team write an automated integration test
+suite for eSchool’s main product, SmartFindExpress.
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+- Technology Used: Java with TestNG API, Selenium web drivers, and JPA
+- My Role: Writing front-end integration tests.
+
+## Education
+
+---
+
+### University of Central Florida - Orlando, FL
+
+M.S. in Interactive Entertainment (FIEA graduate school) - December 2016
+
+B.S. in Computer Science - August 2015
+
+### Valencia College - Orlando, FL
+
+Associate in Arts - April 2012
