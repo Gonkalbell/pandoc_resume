@@ -19,9 +19,6 @@ $endif$
 \definecolor[sectioncolor][h=394972]
 \definecolor[rulecolor][h=709cb7]
 
-\usepackage{setspace}
-\singlespacing
-
 % Enable hyperlinks
 \setupinteraction[state=start, color=sectioncolor]
 
@@ -33,17 +30,17 @@ $endif$
 
 %\setuppagenumbering[location={footer,center}]
 
-\setupbodyfont[11pt, helvetica]
+\setupbodyfont[10pt, helvetica]
 
-\setupwhitespace[medium]
+\setupwhitespace[none]
 
 \setupblackrules[width=31mm, color=rulecolor]
 
-\setuphead[chapter]      [style=\tfd]
-\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
-\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
-                          before={\leavevmode\hspace}]
-\setuphead[subsubsection][style=\bf]
+\setupinterlinespace[small]
+\setuphead[chapter]      [style=\tfd, before={\blank[none]}, after={\blank[none]}]
+\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle, before={\blank[none]}, after={\blank[none]}]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right, before={\blank[none]}, after={\blank[none]}]
+\setuphead[subsubsection][style=\bf, before={\blank[none]}, after={\blank[none]}]
 
 $if(number-sections)$
 $else$
@@ -55,7 +52,7 @@ $endif$
 \definedescription
   [description]
   [headstyle=bold, style=normal,
-   location=hanging, width=18mm, distance=14mm, margin=0cm]
+   location=hanging, width=18mm, distance=8mm, margin=0cm]
 
 \setupitemize[autointro, packed]    % prevent orphan list intro
 \setupitemize[indentnext=no]
@@ -105,6 +102,7 @@ $if(toc)$
 \placecontent
 $endif$
 
+\setupinterlinespace[.5]
 $body$
 
 $for(include-after)$

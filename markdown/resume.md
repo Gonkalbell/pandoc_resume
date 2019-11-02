@@ -4,13 +4,9 @@
 
 Plantation FL, 33322
 
-(407) 927-6251
-
-JohnMichaelBell@gmail.com
+JohnMichaelBell@gmail.com - (407) 927-6251
 
 ## Skills Summary
-
----
 
 Programming Languages: C++14 • C • Rust • C# • Python • Actionscript • Java • Motorola 68k Assembly
 
@@ -20,32 +16,30 @@ Engines and Frameworks: Unity Engine • Unreal Engine 4 • Adobe Flash
 
 ## Experience
 
----
-
 ### Magic Leap
 
 January 2017 - Present
 
-- Lumin Runtime Sdk:
+#### Lumin Runtime Sdk
 
-  A developer kit consisting of APIs and tools for creating applications for Magic Leap's proprietary Lumin Runtime.
+A developer kit consisting of APIs and tools for creating applications for Magic Leap's proprietary Lumin Runtime.
 
-  - Technology used: C++11, OpenGL, CMake
-  - My Role: Porting freatures from Lumin Runtime to Windows and Mac so that they could be used in other developer tools; Adding parts of Lumin runtime to the SDK
+- Technology used: C++11, OpenGL, CMake
+- My Role: Porting freatures from Lumin Runtime to Windows and Mac so that they could be used in other developer tools; Adding parts of Lumin runtime to the SDK
 
-- Zero Iteration:
+#### Zero Iteration
   
-  A tool that allows developers to rapidly iterate on projects for Magic Leap by simulating Magic Leap's C APIs on the developer's desktop.
-  
-  - Technology Used: C11 / C++11, python, protobuf, and zmq
-  - My Role: implementing APIs such as audio and dense mesh reconstruction
+A tool that allows developers to rapidly iterate on projects for Magic Leap by simulating Magic Leap's C APIs on the developer's desktop.
 
-- Lumin SDK C API:
+- Technology Used: C11 / C++11, python, protobuf, and zmq
+- My Role: implementing APIs such as audio and dense mesh reconstruction
 
-  The set of interfaces that all game engines and frameworks on Magic Leap One use to communicate with the devices hardware and services.
+#### Lumin SDK C API
 
-  - Technology Used: C11 / C++11, python
-  - My Role: Creating examples demonstrating API features, and setting up a common framework and build system for these examples to share
+The set of interfaces that all game engines and frameworks on Magic Leap One use to communicate with the devices hardware and services.
+
+- Technology Used: C11 / C++11, python
+- My Role: Creating examples demonstrating API features, and setting up a common framework and build system for these examples to share
 
 ### Immersed Games Internship: Tyto Online
 
@@ -75,8 +69,6 @@ suite for eSchool’s main product, SmartFindExpress.
 - My Role: Writing front-end integration tests.
 
 ## Education
-
----
 
 ### University of Central Florida - Orlando, FL
 
