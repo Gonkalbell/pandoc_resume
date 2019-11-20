@@ -22,30 +22,31 @@ Engines and Frameworks: Unity Engine • Unreal Engine 4 • Adobe Flash
 
 January 2017 - Present
 
-#### Lumin Runtime Sdk
+I worked on three separate projects as part of the Magic Leap SDK and Developer Tools team:
 
+- Lumin Runtime Sdk:
 A developer kit consisting of APIs and tools for creating applications for Magic Leap's proprietary Lumin Runtime.
 
-- Technology used: C++11, OpenGL, CMake
-- My Role: Porting features from Lumin Runtime to Windows and Mac so that they could be used in other developer tools; Adding parts of Lumin runtime to the SDK
+  - Technology used: C++11, OpenGL, CMake
+  - My Role: Porting features from Magic Leap's Lumin Runtime to Windows and Mac so that they could be used in other developer tools, and adding lumin runtime libraries to the SDK 
 
-#### Zero Iteration
-  
+- Zero Iteration:
 A tool that allows developers to rapidly iterate on projects for Magic Leap by simulating Magic Leap's C APIs on the developer's desktop.
 
-- Technology Used: C11 / C++11, python, protobuf, and zmq
-- My Role: implementing APIs such as audio and dense mesh reconstruction
+  - Technology Used: C11 / C++11, python, protobuf, and zmq
+  - My Role: implementing APIs such as audio and dense mesh reconstruction
 
-#### Lumin SDK C API
-
+- Lumin SDK C API:
 The set of interfaces that all game engines and frameworks on Magic Leap One use to communicate with the devices hardware and services.
 
-- Technology Used: C11 / C++11, python
-- My Role: Creating examples demonstrating API features, and setting up a common framework and build system for these examples to share
+  - Technology Used: C11 / C++11, python
+  - My Role: Creating examples demonstrating API features, and setting up a common framework and build system for these examples to share
 
 ### Immersed Games Internship: Tyto Online
 
-September 2016 - December 2016 Developing an educational MMO game that teaches science to
+September 2016 - December 2016
+
+Developing an educational MMO game that teaches science to
 elementary and middle school students.
 
 - Technology Used: Unreal Engine 4 using C++14 and RakNet
