@@ -18,58 +18,51 @@ Engines and Frameworks: Unity Engine • Unreal Engine 4 • Adobe Flash
 
 ## Experience
 
-### Magic Leap
+### Magic Leap - SDK and Developer Tools Programmer
 
-January 2017 - Present
+*January 2017 - Present*
 
-I worked on three separate projects as part of the Magic Leap SDK and Developer Tools team:
+Developing developer tools and APIs for Magic Leap's Spatial Computing device, the Magic Leap One.
 
-- Lumin Runtime Sdk:
-A developer kit consisting of APIs and tools for creating applications for Magic Leap's proprietary Lumin Runtime.
+__Responsibilities:__
 
-  - Technology used: C++11, OpenGL, CMake
-  - My Role: Porting features from Magic Leap's Lumin Runtime to Windows and Mac so that they could be used in other developer tools, and adding lumin runtime libraries to the SDK 
+- Porting Magic Leap's proprietary Lumin Runtime engine to Windows and Mac, so it could be used with the Lumin Runtime Editor.
+- Implementing simulations of device features (most notably audio and dense-mesh reconstruction) in Zero Iteration, a tool to allow developers to rapidly iterate on Magic Leap content.
+- Constructing both public facing samples and internal integration tests for Magic Leap's C API, as well as a framework that these tests and samples share.
 
-- Zero Iteration:
-A tool that allows developers to rapidly iterate on projects for Magic Leap by simulating Magic Leap's C APIs on the developer's desktop.
+### Immersed Games - Network and Gameplay Programmer for Tyto Online
 
-  - Technology Used: C11 / C++11, python, protobuf, and zmq
-  - My Role: implementing APIs such as audio and dense mesh reconstruction
+*September 2016 - December 2016*
 
-- Lumin SDK C API:
-The set of interfaces that all game engines and frameworks on Magic Leap One use to communicate with the devices hardware and services.
+A summer internship working as a programmer for an educational MMO game that teaches environmental science to elementary and middle school students.
 
-  - Technology Used: C11 / C++11, python
-  - My Role: Creating examples demonstrating API features, and setting up a common framework and build system for these examples to share
+__Responsibilities:__
 
-### Immersed Games Internship: Tyto Online
+- Implementing tasks for a modular quest system, allowing developers to construct new quests using a data driven tool
+- Network programming for synchronizing quest progress and player state
 
-September 2016 - December 2016
+### Miria Studios - General Gameplay Programmer for Lay Lines
 
-Developing an educational MMO game that teaches science to
-elementary and middle school students.
-
-- Technology Used: Unreal Engine 4 using C++14 and RakNet
-- My Role: Gameplay and network programming
-
-### Ley Lines
-
-March - August 2016
+*March - August 2016*
 
 An action puzzler game developed for a capstone Project at FIEA and released on Steam.
 
-- Technology Used: Unreal Engine 4 using C++14 and UE Blueprints
-- My Role: General gameplay and UI programming
+__Responsibilities:__
 
-### eSchool Solutions Testing Internship
+- Player control and general gameplay programming
+- Enemy AI
+- UI design and programming
 
-May - August 2014
+### eSchool Solutions - Testing Intern for SmartFindExpress
 
-A summer internship assisting the eSchool Solutions QA team write an automated integration test
-suite for eSchool’s main product, SmartFindExpress.
+*May - August 2014*
 
-- Technology Used: Java with TestNG API, Selenium web drivers, and JPA
-- My Role: Writing front-end integration tests.
+A summer internship assisting the eSchool Solutions QA team write an automated integration test suite for eSchool’s main product, SmartFindExpress.
+
+__Responsibilities:__
+
+- Writing integration tests for the browser-based front-end.
+- Writing unit tests for the back-end database
 
 ## Education
 
