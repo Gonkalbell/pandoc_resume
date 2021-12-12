@@ -18,13 +18,13 @@ Engines and Frameworks: Unity Engine • Unreal Engine 4 • Adobe Flash
 
 ## Experience
 
-### Magic Leap - SDK and Developer Tools Programmer
+### Magic Leap - Senior SDK and Developer Tools Programmer
 
 *January 2017 - Present*
 
 Developing developer tools and APIs for Magic Leap's Spatial Computing device, the Magic Leap One.
 
-__Responsibilities:__
+Responsibilities:
 
 - Porting Magic Leap's proprietary Lumin Runtime engine to Windows and Mac, so it could be used with the Lumin Runtime Editor.
 - Implementing simulations of device features (most notably audio and dense-mesh reconstruction) in Zero Iteration, a tool to allow developers to rapidly iterate on Magic Leap content.
@@ -36,30 +36,29 @@ __Responsibilities:__
 
 A summer internship working as a programmer for an educational MMO game that teaches environmental science to elementary and middle school students.
 
-__Responsibilities:__
+Responsibilities:
 
 - Implementing tasks for a modular quest system, allowing developers to construct new quests using a data driven tool
 - Network programming for synchronizing quest progress and player state
 
 ### Miria Studios - General Gameplay Programmer for Lay Lines
 
-*March - August 2016*
+*March 2016 - August 2016*
 
-An action puzzler game developed for a capstone Project at FIEA and released on Steam.
+An action puzzler game developed in Unreal Engine 4 for a capstone Project at FIEA and released on Steam.
 
-__Responsibilities:__
+Responsibilities:
 
-- Player control and general gameplay programming
-- Enemy AI
+- Player control and gameplay mechanics programming
 - UI design and programming
 
 ### eSchool Solutions - Testing Intern for SmartFindExpress
 
-*May - August 2014*
+*May 2014 - August 2014*
 
 A summer internship assisting the eSchool Solutions QA team write an automated integration test suite for eSchool’s main product, SmartFindExpress.
 
-__Responsibilities:__
+Responsibilities:
 
 - Writing integration tests for the browser-based front-end.
 - Writing unit tests for the back-end database
