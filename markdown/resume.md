@@ -1,8 +1,8 @@
 # John Michael Bell
 
-1650 NW 110th Ave, Apt 192
+1071 Lake Baldwin Lane, Apt 106
 
-Plantation FL, 33322
+Orlando FL, 32814
 
 Email: JohnMichaelBell@gmail.com
 
@@ -18,9 +18,15 @@ Engines and Frameworks: Unity Engine • Unreal Engine 4 • Adobe Flash
 
 ## Experience
 
+### Deviation Games - Senior Software Engineer
+
+*July 2020 - Present*
+
+I currently work as a Senior Software Engineer on the graphics team for Deviation Game's yet-to-be-announced video game. I am working on adding special graphical effects and unique rendering techniques to Unreal Engine, in order to give the characters and environment in our game a unique looks that distinguishes it from other games.
+
 ### Magic Leap - Senior SDK and Developer Tools Programmer
 
-*January 2017 - Present*
+*January 2017 - July 2020*
 
 Developing developer tools and APIs for Magic Leap's Spatial Computing device, the Magic Leap One.
 
@@ -51,17 +57,6 @@ Responsibilities:
 
 - Player control and gameplay mechanics programming
 - UI design and programming
-
-### eSchool Solutions - Testing Intern for SmartFindExpress
-
-*May 2014 - August 2014*
-
-A summer internship assisting the eSchool Solutions QA team write an automated integration test suite for eSchool’s main product, SmartFindExpress.
-
-Responsibilities:
-
-- Writing integration tests for the browser-based front-end.
-- Writing unit tests for the back-end database
 
 ## Education
 
