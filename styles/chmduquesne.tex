@@ -1,13 +1,13 @@
 % Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
 % Copyright 2014 Mark Szepieniec <http://github.com/mszep>
-% 
+%
 % ConText style for making a resume with pandoc. Inspired by moderncv.
-% 
+%
 % This CSS document is delivered to you under the CC BY-SA 3.0 License.
 % https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
 
 \startmode[*mkii]
-  \enableregime[utf-8]  
+  \enableregime[utf-8]
   \setupcolors[state=start]
 \stopmode
 $if(mainlang)$
@@ -16,8 +16,8 @@ $endif$
 
 \setupcolor[hex]
 \definecolor[titlegrey][h=757575]
-\definecolor[sectioncolor][h=397249]
-\definecolor[rulecolor][h=9cb770]
+\definecolor[sectioncolor][h=394972]
+\definecolor[rulecolor][h=709cb7]
 
 % Enable hyperlinks
 \setupinteraction[state=start, color=sectioncolor]
@@ -30,17 +30,17 @@ $endif$
 
 %\setuppagenumbering[location={footer,center}]
 
-\setupbodyfont[11pt, helvetica]
+\setupbodyfont[10pt, helvetica]
 
-\setupwhitespace[medium]
+\setupwhitespace[none]
 
 \setupblackrules[width=31mm, color=rulecolor]
 
 \setuphead[chapter]      [style=\tfd]
 \setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
 \setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
-                          before={\leavevmode\blackrule\hspace}]
-\setuphead[subsubsection][style=\bf]
+                          before={\blank[small]\leavevmode\blackrule\hspace}, after={\blank[none]}]
+\setuphead[subsubsection][style=\bf, before={\blank[medium]}]
 
 $if(number-sections)$
 $else$
@@ -105,6 +105,7 @@ $if(toc)$
 \placecontent
 $endif$
 
+\setupinterlinespace[.9]
 $body$
 
 $for(include-after)$

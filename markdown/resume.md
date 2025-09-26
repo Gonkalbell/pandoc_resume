@@ -1,100 +1,71 @@
-Johnny Coder
-============
+# John Michael Bell
 
-----
+1071 Lake Baldwin Lane, Apt 106
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+Orlando FL, 32814
 
-----
+Email: JohnMichaelBell@gmail.com
 
-Education
----------
+Phone: (407)927-6251
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+## Skills Summary
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+Programming Languages: C++14 • C • Rust • C# • Python • Actionscript • Java • Motorola 68k Assembly
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+API Experience: OpenGL • Vulkan • Direct3D 11 • RakNet
 
-    *Minor: Awesomeology*
+Engines and Frameworks: Unity Engine • Unreal Engine 4 • Adobe Flash
 
-Experience
-----------
+## Experience
 
-**Your Most Recent Work Experience:**
+### Deviation Games - Senior Software Engineer
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+*July 2020 - Present*
 
-* First item
+I currently work as a Senior Software Engineer on the graphics team for Deviation Game's yet-to-be-announced video game. I am working on adding special graphical effects and unique rendering techniques to Unreal Engine, in order to give the characters and environment in our game a unique looks that distinguishes it from other games.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+### Magic Leap - Senior SDK and Developer Tools Programmer
 
-**That Other Job You Had**
+*January 2017 - July 2020*
 
-Also with a short description.
+Developing developer tools and APIs for Magic Leap's Spatial Computing device, the Magic Leap One.
 
-Technical Experience
---------------------
+Responsibilities:
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+- Porting Magic Leap's proprietary Lumin Runtime engine to Windows and Mac, so it could be used with the Lumin Runtime Editor.
+- Implementing simulations of device features (most notably audio and dense-mesh reconstruction) in Zero Iteration, a tool to allow developers to rapidly iterate on Magic Leap content.
+- Constructing both public facing samples and internal integration tests for Magic Leap's C API, as well as a framework that these tests and samples share.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+### Immersed Games - Network and Gameplay Programmer for Tyto Online
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+*September 2016 - December 2016*
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+A summer internship working as a programmer for an educational MMO game that teaches environmental science to elementary and middle school students.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+Responsibilities:
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+- Implementing tasks for a modular quest system, allowing developers to construct new quests using a data driven tool
+- Network programming for synchronizing quest progress and player state
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+### Miria Studios - General Gameplay Programmer for Lay Lines
 
-[ref]: https://github.com/githubuser/superlongprojectname
+*March 2016 - August 2016*
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+An action puzzler game developed in Unreal Engine 4 for a capstone Project at FIEA and released on Steam.
 
-* Human Languages:
+Responsibilities:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+- Player control and gameplay mechanics programming
+- UI design and programming
 
-* Random tidbit
+## Education
 
-* Other sort of impressive-sounding thing you did
+### University of Central Florida - Orlando, FL
 
-----
+M.S. in Interactive Entertainment (FIEA Graduate School) - December 2016
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+B.S. in Computer Science - August 2015
+
+### Valencia College - Orlando, FL
+
+Associate in Arts - April 2012
