@@ -1,8 +1,6 @@
 # John Michael Bell
 
-1071 Lake Baldwin Lane, Apt 106
-
-Orlando FL, 32814
+4233 Centergate Lane, Unit 104, Orlando FL, 32814
 
 Email: JohnMichaelBell@gmail.com
 
@@ -10,19 +8,38 @@ Phone: (407)927-6251
 
 ## Skills Summary
 
-Programming Languages: C++14 • C • Rust • C# • Python • Actionscript • Java • Motorola 68k Assembly
+Programming Languages: C++ • C • Rust
 
-API Experience: OpenGL • Vulkan • Direct3D 11 • RakNet
-
-Engines and Frameworks: Unity Engine • Unreal Engine 4 • Adobe Flash
+Engines and Tools: Unreal Engine 4 & 5 • Unity Engine • Godot • RenderDoc • PIX
 
 ## Experience
 
+### White Moon Dreams - Senior Software Engineer
+
+*July 2023 - Present*
+
+Creating a pipeline to graphics data for various machine learning projects.
+
+Responsibilities:
+
+- Modifying Unreal Engine to rerender each frame with different resolutions, framerates, and other graphics settings.
+- Creating plugins to export intermediate textures and data during rendering.
+- Modifying source code for existing Unreal Engine games to use this plugin.
+
+Technologies used: Unreal Engine 4 & 5, C++, HLSL, Direct3D 12
+
 ### Deviation Games - Senior Software Engineer
 
-*July 2020 - Present*
+*July 2020 - May 2023*
 
-I currently work as a Senior Software Engineer on the graphics team for Deviation Game's yet-to-be-announced video game. I am working on adding special graphical effects and unique rendering techniques to Unreal Engine, in order to give the characters and environment in our game a unique looks that distinguishes it from other games.
+Designing and implementing systems that utilized Unreal Engine 5’s render dependency graph to create unique particle and
+graphics effects for an unreleased AAA game. These systems include:
+
+- DG’s custom particle system to interact and DG’s other systems that dynamically modified character skeletal meshes.
+- Marking and rendering parts of arbitrary meshes as “wet” if they have been touched by particles or certain objects.
+- Modifying unreal’s scene capture component to efficiently render distant parts of the game scene at the same time.
+
+Technologies used: Unreal Engine 5, C++, HLSL, Direct3D 12
 
 ### Magic Leap - Senior SDK and Developer Tools Programmer
 
